@@ -1,6 +1,7 @@
 # electorn
 
-* version : v8.2.0
-  * npm install -g electron --save-dev --save-exact
-* 
+* Version installed: v8.2.0 
+* Node version: v12.13.1
 
+Commond to run: 
+		electron main.js
